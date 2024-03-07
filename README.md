@@ -1,0 +1,1 @@
+Student's feedback system and sentiment analysis system using machine learning techniques to determine the polarity of the feedback obtained from students in order to improve teaching and learning.
