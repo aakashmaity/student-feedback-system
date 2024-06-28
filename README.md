@@ -1,9 +1,7 @@
-Ecommerce App using Next JS.
-Audiophile :
+Student Feedback System
 
-Audiophile-admin : Admin can add new products 
+Admin : Can add teacker, add students, see all feedback
 
-Audiophile-frontend : User side , they can add product to cart , add shipping details and pay to order products.
+Student :  add feedback
 
-
-Tech Stack : ```NextJs```,```MongoDB```,```AWS-S3```
+Tech Stack : ```NextJs```,```MongoDB```,```Tailwind```
