@@ -1,0 +1,14 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/teacher": "pages/teacher.js",
+  "/student": "pages/student.js",
+  "/": "pages/index.js",
+  "/teacher/new": "pages/teacher/new.js",
+  "/api/student": "pages/api/student.js",
+  "/api/teacher": "pages/api/teacher.js",
+  "/feedback": "pages/feedback.js",
+  "/api/feedback": "pages/api/feedback.js"
+}
